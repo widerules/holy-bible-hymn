@@ -14,3 +14,6 @@ GSM Telephony (hardware dependent)
 Bluetooth, EDGE, 3G, and WiFi (hardware dependent)
 Camera, GPS, compass, and accelerometer (hardware dependent)
 Rich development environment including a device emulator, tools for debugging, memory and performance profiling, and a plugin for the Eclipse IDE
+
+
+test1234

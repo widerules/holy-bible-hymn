@@ -1,0 +1,1 @@
+Android application to make easy memo and read the holy bible and hear the hymn.
